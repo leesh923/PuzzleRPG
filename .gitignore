@@ -1,0 +1,61 @@
+# ===============================
+# Unity 기본 필수 무시 항목
+# ===============================
+
+# 라이브러리/캐시/임시 파일
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# 빌드 출력물
+*.apk
+*.aab
+*.unitypackage
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
+
+# 사용자 설정
+UserSettings/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Unity 자동 생성 파일
+*.opendb
+*.VC.db
+*.pidb.meta
+
+# Crash 보고서
+sysinfo.txt
+
+# Android Native/Gradle 빌드 캐시
+.gradle/
+**/gradleBuild/
+.gradle/
+**/gradle/
+**/local.properties
+**/.gradle/
+**/build/
+
+# ===============================
+# 버전 관리에 포함할 항목
+# ===============================
+# Assets, Packages, ProjectSettings, 기타 커스텀 설정
+!Assets/
+!Packages/
+!ProjectSettings/
+!*.meta
