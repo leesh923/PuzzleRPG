@@ -34,15 +34,15 @@
 
 
 
-\* \*\*Engine\*\*: Unity 6.0 LTS (Universal Render Pipeline)
+\- \*\*Engine\*\*: Unity 6.0 LTS (Universal Render Pipeline)
 
-\* \*\*Language\*\*: C#
+\- \*\*Language\*\*: C#
 
-\* \*\*Target Platform\*\*: Android (iOS 지원 예정)
+\- \*\*Target Platform\*\*: Android (iOS 지원 예정)
 
-\* \*\*IDE\*\*: Visual Studio / Rider
+\- \*\*IDE\*\*: Visual Studio / Rider
 
-\* \*\*Version Control\*\*: Git \& GitHub
+\- \*\*Version Control\*\*: Git \& GitHub
 
 
 
@@ -54,15 +54,15 @@
 
 
 
-\* \*\*실시간 전투 시스템\*\* (Real-time RPG Combat)
+\- \*\*실시간 전투 시스템\*\* (Real-time RPG Combat)
 
-\* \*\*탐험 중 등장하는 퍼즐·기믹 해결\*\* (Puzzle-solving during exploration)
+\- \*\*탐험 중 등장하는 퍼즐·기믹 해결\*\* (Puzzle-solving during exploration)
 
-\* \*\*캐릭터 성장 및 장비 강화\*\* (Character Progression \& Equipment Upgrade)
+\- \*\*캐릭터 성장 및 장비 강화\*\* (Character Progression \& Equipment Upgrade)
 
-\* \*\*스토리 기반 퀘스트 진행\*\* (Story-driven Quest System)
+\- \*\*스토리 기반 퀘스트 진행\*\* (Story-driven Quest System)
 
-\* \*\*보스전과 던전 클리어 방식\*\* (Boss Fights \& Dungeon Clear System)
+\- \*\*보스전과 던전 클리어 방식\*\* (Boss Fights \& Dungeon Clear System)
 
 ---
 
@@ -130,17 +130,17 @@ ProjectSettings/ # 프로젝트 설정
 
 
 
-\* \[x] Unity 프로젝트 세팅
+\- \[x] Unity 프로젝트 세팅
 
-\* \[x] GitHub 저장소 연결
+\- \[x] GitHub 저장소 연결
 
-\* \[ ] 기본 전투 시스템 구현
+\- \[ ] 기본 전투 시스템 구현
 
-\* \[ ] 탐험 퍼즐 기믹 구현
+\- \[ ] 탐험 퍼즐 기믹 구현
 
-\* \[ ] 스테이지 및 보스전 추가
+\- \[ ] 던전 및 보스전 추가
 
-\* \[ ] UI/UX 최적화
+\- \[ ] UI/UX 최적화
 
 
 
