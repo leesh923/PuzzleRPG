@@ -33,6 +33,10 @@ UserSettings/
 *.svd
 *.pdb
 *.mdb
+.vs/
+*.db
+*.vsidx
+
 
 # Unity 자동 생성 파일
 *.opendb
