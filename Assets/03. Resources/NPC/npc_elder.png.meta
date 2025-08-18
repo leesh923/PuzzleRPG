@@ -1,0 +1,2756 @@
+fileFormatVersion: 2
+guid: d6cdf4451749c29439c42d3a048960ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5509288358854237611
+    second: npc_elder_0
+  - first:
+      213: 5638438047700613532
+    second: npc_elder_1
+  - first:
+      213: -3815817132861128017
+    second: npc_elder_2
+  - first:
+      213: -6220795141455940284
+    second: npc_elder_3
+  - first:
+      213: -1127518507279807859
+    second: npc_elder_4
+  - first:
+      213: -5988839293897377422
+    second: npc_elder_5
+  - first:
+      213: -7708587234224138128
+    second: npc_elder_6
+  - first:
+      213: -1542956683707770481
+    second: npc_elder_7
+  - first:
+      213: -1697539807374104516
+    second: npc_elder_8
+  - first:
+      213: 387119918860257696
+    second: npc_elder_9
+  - first:
+      213: -3188242217026665319
+    second: npc_elder_10
+  - first:
+      213: -1674448324381048985
+    second: npc_elder_11
+  - first:
+      213: -438792110160983300
+    second: npc_elder_12
+  - first:
+      213: -701048805117355578
+    second: npc_elder_13
+  - first:
+      213: -9174669559643485654
+    second: npc_elder_14
+  - first:
+      213: 6478249363356770769
+    second: npc_elder_15
+  - first:
+      213: -1689670265484570195
+    second: npc_elder_16
+  - first:
+      213: -2845912426211003020
+    second: npc_elder_17
+  - first:
+      213: -5711685098450617311
+    second: npc_elder_18
+  - first:
+      213: 6704216394763259941
+    second: npc_elder_19
+  - first:
+      213: -6427243227401129275
+    second: npc_elder_20
+  - first:
+      213: -6382264710638305957
+    second: npc_elder_21
+  - first:
+      213: -8481321749244069900
+    second: npc_elder_22
+  - first:
+      213: -6137629377396315341
+    second: npc_elder_23
+  - first:
+      213: -7020249620584493702
+    second: npc_elder_24
+  - first:
+      213: -2497648602754195966
+    second: npc_elder_25
+  - first:
+      213: 7378991112904211721
+    second: npc_elder_26
+  - first:
+      213: 2742530989509237224
+    second: npc_elder_27
+  - first:
+      213: 7051740093836749520
+    second: npc_elder_28
+  - first:
+      213: 4798640316502907765
+    second: npc_elder_29
+  - first:
+      213: -892548983413917526
+    second: npc_elder_30
+  - first:
+      213: -7126920163834666605
+    second: npc_elder_31
+  - first:
+      213: -8897609309641099428
+    second: npc_elder_32
+  - first:
+      213: -279490630940319877
+    second: npc_elder_33
+  - first:
+      213: -5615166184651745306
+    second: npc_elder_34
+  - first:
+      213: -3486040008924155947
+    second: npc_elder_35
+  - first:
+      213: -3315541230816831293
+    second: npc_elder_36
+  - first:
+      213: -721886176126222871
+    second: npc_elder_37
+  - first:
+      213: 5027831366595222453
+    second: npc_elder_38
+  - first:
+      213: 6393060948625841296
+    second: npc_elder_39
+  - first:
+      213: 3635989651265375915
+    second: npc_elder_40
+  - first:
+      213: -1133019015358075409
+    second: npc_elder_41
+  - first:
+      213: 6539908140653263777
+    second: npc_elder_42
+  - first:
+      213: -7862004589240012266
+    second: npc_elder_43
+  - first:
+      213: -6367455472026365895
+    second: npc_elder_44
+  - first:
+      213: -3807995530063049656
+    second: npc_elder_45
+  - first:
+      213: 4747387515678819418
+    second: npc_elder_46
+  - first:
+      213: 7662116517184727427
+    second: npc_elder_47
+  - first:
+      213: 1626476426699557907
+    second: npc_elder_48
+  - first:
+      213: -8507184515683915539
+    second: npc_elder_49
+  - first:
+      213: -751698633193847523
+    second: npc_elder_50
+  - first:
+      213: 6340025249418722770
+    second: npc_elder_51
+  - first:
+      213: -31757501625184580
+    second: npc_elder_52
+  - first:
+      213: 6923869260274490114
+    second: npc_elder_53
+  - first:
+      213: 3545294894759135985
+    second: npc_elder_54
+  - first:
+      213: -1105982521988222137
+    second: npc_elder_55
+  - first:
+      213: -334248042486873315
+    second: npc_elder_56
+  - first:
+      213: 1059722649684047461
+    second: npc_elder_57
+  - first:
+      213: -7417242712493978112
+    second: npc_elder_58
+  - first:
+      213: -2803722860956018478
+    second: npc_elder_59
+  - first:
+      213: 5168643056852780813
+    second: npc_elder_60
+  - first:
+      213: 7522278250445910860
+    second: npc_elder_61
+  - first:
+      213: -6692202478397984381
+    second: npc_elder_62
+  - first:
+      213: -245058370210813507
+    second: npc_elder_63
+  - first:
+      213: 2683215101603835394
+    second: npc_elder_64
+  - first:
+      213: 1958368128172329734
+    second: npc_elder_65
+  - first:
+      213: 4147084694170300778
+    second: npc_elder_66
+  - first:
+      213: 469515129932784458
+    second: npc_elder_67
+  - first:
+      213: -3451576424957440455
+    second: npc_elder_68
+  - first:
+      213: 8119861017552392298
+    second: npc_elder_69
+  - first:
+      213: -6321072833940922747
+    second: npc_elder_70
+  - first:
+      213: -8515317897973004952
+    second: npc_elder_71
+  - first:
+      213: -1698884532397652061
+    second: npc_elder_72
+  - first:
+      213: 8731809494008485963
+    second: npc_elder_73
+  - first:
+      213: 1260419365109874391
+    second: npc_elder_74
+  - first:
+      213: -4711952047763421281
+    second: npc_elder_75
+  - first:
+      213: -4645509629601396919
+    second: npc_elder_76
+  - first:
+      213: -3850432125498634662
+    second: npc_elder_77
+  - first:
+      213: 897516865079602976
+    second: npc_elder_78
+  - first:
+      213: 4312529159266153376
+    second: npc_elder_79
+  - first:
+      213: -3236368801062019752
+    second: npc_elder_80
+  - first:
+      213: -6486558884777974151
+    second: npc_elder_81
+  - first:
+      213: 4811352388449265850
+    second: npc_elder_82
+  - first:
+      213: 7869420219402257712
+    second: npc_elder_83
+  - first:
+      213: -1084483636036389244
+    second: npc_elder_84
+  - first:
+      213: -342871859040214078
+    second: npc_elder_85
+  - first:
+      213: 3817309201986436981
+    second: npc_elder_86
+  - first:
+      213: 3820345050435201791
+    second: npc_elder_87
+  - first:
+      213: -2361879947581547572
+    second: npc_elder_88
+  - first:
+      213: -7555260570043625843
+    second: npc_elder_89
+  - first:
+      213: 2694538863693963780
+    second: npc_elder_90
+  - first:
+      213: -6205887613300408815
+    second: npc_elder_91
+  - first:
+      213: 7945140744759668972
+    second: npc_elder_92
+  - first:
+      213: -5369806124577329346
+    second: npc_elder_93
+  - first:
+      213: 8854740442306306963
+    second: npc_elder_94
+  - first:
+      213: -705658535923005451
+    second: npc_elder_95
+  - first:
+      213: 8983914528438071198
+    second: npc_elder_96
+  - first:
+      213: 1860516388105406019
+    second: npc_elder_97
+  - first:
+      213: -4911879202763280901
+    second: npc_elder_98
+  - first:
+      213: -3154376427950280476
+    second: npc_elder_99
+  - first:
+      213: 42053543272011575
+    second: npc_elder_100
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_elder_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 854
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad93baa29ce47c40800000000000000
+      internalID: 5509288358854237611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 854
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99fd39d781cf3e40800000000000000
+      internalID: 5638438047700613532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 854
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa286f3e88e7b0bc0800000000000000
+      internalID: -3815817132861128017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 854
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445fa0d27cb4ba9a0800000000000000
+      internalID: -6220795141455940284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 854
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a88e734ef3a50f0800000000000000
+      internalID: -1127518507279807859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 854
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2797856746e53eca0800000000000000
+      internalID: -5988839293897377422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 790
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07895f790c8950590800000000000000
+      internalID: -7708587234224138128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 790
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8998c33211569ae0800000000000000
+      internalID: -1542956683707770481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 790
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38a1650a802178e0800000000000000
+      internalID: -1697539807374104516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 790
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9c421e3835f5500800000000000000
+      internalID: 387119918860257696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 790
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994c83c789611c3d0800000000000000
+      internalID: -3188242217026665319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 790
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ff48ede1a23c8e0800000000000000
+      internalID: -1674448324381048985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 726
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa4c9f86e819e9f0800000000000000
+      internalID: -438792110160983300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 726
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c994c873df5546f0800000000000000
+      internalID: -701048805117355578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 726
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a4cdd15a60da080800000000000000
+      internalID: -9174669559643485654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 726
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1e745097d57e950800000000000000
+      internalID: 6478249363356770769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 726
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1904688d51d88e0800000000000000
+      internalID: -1689670265484570195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 726
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475b2d50ab94188d0800000000000000
+      internalID: -2845912426211003020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 662
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c75fd2aa40cb0b0800000000000000
+      internalID: -5711685098450617311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 662
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520d6336a492a0d50800000000000000
+      internalID: 6704216394763259941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 662
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c278b17658ddc6a0800000000000000
+      internalID: -6427243227401129275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 662
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d74e37f04ad67a0800000000000000
+      internalID: -6382264710638305957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 662
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f733861eca4c4a80800000000000000
+      internalID: -8481321749244069900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_23
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 662
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b6a4d8992c2daa0800000000000000
+      internalID: -6137629377396315341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 598
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d8d7a3a20139e90800000000000000
+      internalID: -7020249620584493702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_25
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 598
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ed51334d1965dd0800000000000000
+      internalID: -2497648602754195966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 598
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d7b655251776660800000000000000
+      internalID: 7378991112904211721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_27
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 598
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9d237876d6f0620800000000000000
+      internalID: 2742530989509237224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_28
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 598
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dae48de040dcd160800000000000000
+      internalID: 7051740093836749520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_29
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 598
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b160e81f1389240800000000000000
+      internalID: 4798640316502907765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 534
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa83af2bd670d93f0800000000000000
+      internalID: -892548983413917526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 534
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391e01cfed7181d90800000000000000
+      internalID: -7126920163834666605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_32
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 534
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5732a47977558480800000000000000
+      internalID: -8897609309641099428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 534
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f90c080cc0f1cf0800000000000000
+      internalID: -279490630940319877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 534
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e71c010b1ce212b0800000000000000
+      internalID: -5615166184651745306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_35
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 534
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfa64be4191f9fc0800000000000000
+      internalID: -3486040008924155947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_36
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 470
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8500b21d4dcf1d0800000000000000
+      internalID: -3315541230816831293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_37
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 470
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed3bb7f8585bf5f0800000000000000
+      internalID: -721886176126222871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_38
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 470
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb99744df176c540800000000000000
+      internalID: 5027831366595222453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_39
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 470
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cd3469f07b8b850800000000000000
+      internalID: 6393060948625841296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_40
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 406
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae4ba2d251a57230800000000000000
+      internalID: 3635989651265375915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_41
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 406
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feda1d16535b640f0800000000000000
+      internalID: -1133019015358075409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_42
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 406
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abb253ddcb62ca50800000000000000
+      internalID: 6539908140653263777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_43
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 406
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612bbd31b7c84e290800000000000000
+      internalID: -7862004589240012266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_44
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 406
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93050c20cf042a7a0800000000000000
+      internalID: -6367455472026365895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_45
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 406
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c0154bd38472bc0800000000000000
+      internalID: -3807995530063049656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_46
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 342
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a540923facb12e140800000000000000
+      internalID: 4747387515678819418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_47
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 347
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389e272706e455a60800000000000000
+      internalID: 7662116517184727427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_48
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 342
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c49f051b7629610800000000000000
+      internalID: 1626476426699557907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_49
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 347
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8e4f781c860f980800000000000000
+      internalID: -8507184515683915539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_50
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 342
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d158556631e6195f0800000000000000
+      internalID: -751698633193847523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_51
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 342
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd3c9a9f5b4cf750800000000000000
+      internalID: 6340025249418722770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_52
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 342
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe4da478bc2f8ff0800000000000000
+      internalID: -31757501625184580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_53
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 342
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b58e17866861060800000000000000
+      internalID: 6923869260274490114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_54
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 342
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1facf1a4cea633130800000000000000
+      internalID: 3545294894759135985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_55
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 342
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743f91981c2c6a0f0800000000000000
+      internalID: -1105982521988222137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_56
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 278
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1343b02d238c5bf0800000000000000
+      internalID: -334248042486873315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_57
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 278
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5667ade9224e4be00800000000000000
+      internalID: 1059722649684047461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_58
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 278
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e01fc1d09a01990800000000000000
+      internalID: -7417242712493978112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_59
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 283
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d81318a9ec2719d0800000000000000
+      internalID: -2803722860956018478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_60
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 278
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07cf7eb975bab740800000000000000
+      internalID: 5168643056852780813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_61
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 278
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43b97bc630846860800000000000000
+      internalID: 7522278250445910860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_62
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 278
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381791e7d458023a0800000000000000
+      internalID: -6692202478397984381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_63
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 278
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9295ee5b0699cf0800000000000000
+      internalID: -245058370210813507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_64
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 278
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e6f0b2be1bc3520800000000000000
+      internalID: 2683215101603835394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_65
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 214
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b882bcf658d2b10800000000000000
+      internalID: 1958368128172329734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_66
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 214
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61fa71ae876d8930800000000000000
+      internalID: 4147084694170300778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_67
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 214
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43a058e58d048600800000000000000
+      internalID: 469515129932784458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_68
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 219
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e8c4b57898910d0800000000000000
+      internalID: -3451576424957440455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_69
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 214
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6090c8139a8fa070800000000000000
+      internalID: 8119861017552392298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_70
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 214
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e549d7fb90748a0800000000000000
+      internalID: -6321072833940922747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_71
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 214
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8650bc5ec7383d980800000000000000
+      internalID: -8515317897973004952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_72
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 214
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a74804d4895c68e0800000000000000
+      internalID: -1698884532397652061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_73
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 214
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4852c0c87e9d2970800000000000000
+      internalID: 8731809494008485963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_74
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 150
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7deb56d0cb8ed7110800000000000000
+      internalID: 1260419365109874391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_75
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 150
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97036ad398cb9eb0800000000000000
+      internalID: -4711952047763421281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_76
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 159
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947c3f6da95d78fb0800000000000000
+      internalID: -4645509629601396919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_77
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 158
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ec6efd164809ac0800000000000000
+      internalID: -3850432125498634662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_78
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 156
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fedf265de947c00800000000000000
+      internalID: 897516865079602976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_79
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 150
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3b29deb6e29db30800000000000000
+      internalID: 4312529159266153376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_80
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 150
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d9a82f8bb1613d0800000000000000
+      internalID: -3236368801062019752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_81
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 150
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976a722cf0d1bf5a0800000000000000
+      internalID: -6486558884777974151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_82
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 150
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8eeb2718b55c240800000000000000
+      internalID: 4811352388449265850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_83
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 86
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0358fbddefbc53d60800000000000000
+      internalID: 7869420219402257712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_84
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 86
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486b35df0e323f0f0800000000000000
+      internalID: -1084483636036389244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_85
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 95
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c32e6e5cdfdd3bf0800000000000000
+      internalID: -342871859040214078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_86
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 94
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f3b368e7ec9f430800000000000000
+      internalID: 3817309201986436981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_87
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 92
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaac921597940530800000000000000
+      internalID: 3820345050435201791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_88
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 86
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb984293bae83fd0800000000000000
+      internalID: -2361879947581547572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_89
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 86
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ec8018a82562790800000000000000
+      internalID: -7555260570043625843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_90
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 86
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402a6fbf1dce46520800000000000000
+      internalID: 2694538863693963780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_91
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 86
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e7b3d881240e9a0800000000000000
+      internalID: -6205887613300408815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_92
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 22
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0f1e5896fc24e60800000000000000
+      internalID: 7945140744759668972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_93
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 22
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fe9d7b7cd9a75b0800000000000000
+      internalID: -5369806124577329346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_94
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 31
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393e3f1948b52ea70800000000000000
+      internalID: 8854740442306306963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_95
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 30
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f74691ec4ff436f0800000000000000
+      internalID: -705658535923005451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_96
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 28
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fa5003aa64dac70800000000000000
+      internalID: 8983914528438071198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_97
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 22
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346c0db2cc1e1d910800000000000000
+      internalID: 1860516388105406019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_98
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 22
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd6aaba3ef75dbb0800000000000000
+      internalID: -4911879202763280901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_99
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 22
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e07824f9576934d0800000000000000
+      internalID: -3154376427950280476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_elder_100
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 22
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737564c8977659000800000000000000
+      internalID: 42053543272011575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      npc_elder_0: 5509288358854237611
+      npc_elder_1: 5638438047700613532
+      npc_elder_10: -3188242217026665319
+      npc_elder_100: 42053543272011575
+      npc_elder_11: -1674448324381048985
+      npc_elder_12: -438792110160983300
+      npc_elder_13: -701048805117355578
+      npc_elder_14: -9174669559643485654
+      npc_elder_15: 6478249363356770769
+      npc_elder_16: -1689670265484570195
+      npc_elder_17: -2845912426211003020
+      npc_elder_18: -5711685098450617311
+      npc_elder_19: 6704216394763259941
+      npc_elder_2: -3815817132861128017
+      npc_elder_20: -6427243227401129275
+      npc_elder_21: -6382264710638305957
+      npc_elder_22: -8481321749244069900
+      npc_elder_23: -6137629377396315341
+      npc_elder_24: -7020249620584493702
+      npc_elder_25: -2497648602754195966
+      npc_elder_26: 7378991112904211721
+      npc_elder_27: 2742530989509237224
+      npc_elder_28: 7051740093836749520
+      npc_elder_29: 4798640316502907765
+      npc_elder_3: -6220795141455940284
+      npc_elder_30: -892548983413917526
+      npc_elder_31: -7126920163834666605
+      npc_elder_32: -8897609309641099428
+      npc_elder_33: -279490630940319877
+      npc_elder_34: -5615166184651745306
+      npc_elder_35: -3486040008924155947
+      npc_elder_36: -3315541230816831293
+      npc_elder_37: -721886176126222871
+      npc_elder_38: 5027831366595222453
+      npc_elder_39: 6393060948625841296
+      npc_elder_4: -1127518507279807859
+      npc_elder_40: 3635989651265375915
+      npc_elder_41: -1133019015358075409
+      npc_elder_42: 6539908140653263777
+      npc_elder_43: -7862004589240012266
+      npc_elder_44: -6367455472026365895
+      npc_elder_45: -3807995530063049656
+      npc_elder_46: 4747387515678819418
+      npc_elder_47: 7662116517184727427
+      npc_elder_48: 1626476426699557907
+      npc_elder_49: -8507184515683915539
+      npc_elder_5: -5988839293897377422
+      npc_elder_50: -751698633193847523
+      npc_elder_51: 6340025249418722770
+      npc_elder_52: -31757501625184580
+      npc_elder_53: 6923869260274490114
+      npc_elder_54: 3545294894759135985
+      npc_elder_55: -1105982521988222137
+      npc_elder_56: -334248042486873315
+      npc_elder_57: 1059722649684047461
+      npc_elder_58: -7417242712493978112
+      npc_elder_59: -2803722860956018478
+      npc_elder_6: -7708587234224138128
+      npc_elder_60: 5168643056852780813
+      npc_elder_61: 7522278250445910860
+      npc_elder_62: -6692202478397984381
+      npc_elder_63: -245058370210813507
+      npc_elder_64: 2683215101603835394
+      npc_elder_65: 1958368128172329734
+      npc_elder_66: 4147084694170300778
+      npc_elder_67: 469515129932784458
+      npc_elder_68: -3451576424957440455
+      npc_elder_69: 8119861017552392298
+      npc_elder_7: -1542956683707770481
+      npc_elder_70: -6321072833940922747
+      npc_elder_71: -8515317897973004952
+      npc_elder_72: -1698884532397652061
+      npc_elder_73: 8731809494008485963
+      npc_elder_74: 1260419365109874391
+      npc_elder_75: -4711952047763421281
+      npc_elder_76: -4645509629601396919
+      npc_elder_77: -3850432125498634662
+      npc_elder_78: 897516865079602976
+      npc_elder_79: 4312529159266153376
+      npc_elder_8: -1697539807374104516
+      npc_elder_80: -3236368801062019752
+      npc_elder_81: -6486558884777974151
+      npc_elder_82: 4811352388449265850
+      npc_elder_83: 7869420219402257712
+      npc_elder_84: -1084483636036389244
+      npc_elder_85: -342871859040214078
+      npc_elder_86: 3817309201986436981
+      npc_elder_87: 3820345050435201791
+      npc_elder_88: -2361879947581547572
+      npc_elder_89: -7555260570043625843
+      npc_elder_9: 387119918860257696
+      npc_elder_90: 2694538863693963780
+      npc_elder_91: -6205887613300408815
+      npc_elder_92: 7945140744759668972
+      npc_elder_93: -5369806124577329346
+      npc_elder_94: 8854740442306306963
+      npc_elder_95: -705658535923005451
+      npc_elder_96: 8983914528438071198
+      npc_elder_97: 1860516388105406019
+      npc_elder_98: -4911879202763280901
+      npc_elder_99: -3154376427950280476
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
