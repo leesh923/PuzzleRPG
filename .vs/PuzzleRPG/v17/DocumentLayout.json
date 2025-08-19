@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Devlopment\\Unity3D\\Projects\\PuzzleRPG\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9FEB691E-647E-E318-F9E1-5DEC40C99BC8}|Assembly-CSharp.csproj|d:\\devlopment\\unity3d\\projects\\puzzlerpg\\assets\\99. test\\playeranimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEB691E-647E-E318-F9E1-5DEC40C99BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\99. test\\playeranimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9FEB691E-647E-E318-F9E1-5DEC40C99BC8}|Assembly-CSharp.csproj|d:\\devlopment\\unity3d\\projects\\puzzlerpg\\assets\\02. scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FEB691E-647E-E318-F9E1-5DEC40C99BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\02. scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PlayerAnimController.cs",
+              "DocumentMoniker": "D:\\Devlopment\\Unity3D\\Projects\\PuzzleRPG\\Assets\\99. Test\\PlayerAnimController.cs",
+              "RelativeDocumentMoniker": "Assets\\99. Test\\PlayerAnimController.cs",
+              "ToolTip": "D:\\Devlopment\\Unity3D\\Projects\\PuzzleRPG\\Assets\\99. Test\\PlayerAnimController.cs",
+              "RelativeToolTip": "Assets\\99. Test\\PlayerAnimController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvzMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T06:15:38.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PlayerControl.cs",
               "DocumentMoniker": "D:\\Devlopment\\Unity3D\\Projects\\PuzzleRPG\\Assets\\02. Scripts\\PlayerControl.cs",
               "RelativeDocumentMoniker": "Assets\\02. Scripts\\PlayerControl.cs",
               "ToolTip": "D:\\Devlopment\\Unity3D\\Projects\\PuzzleRPG\\Assets\\02. Scripts\\PlayerControl.cs",
               "RelativeToolTip": "Assets\\02. Scripts\\PlayerControl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T07:16:25.066Z",
               "EditorCaption": ""
