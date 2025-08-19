@@ -56,6 +56,9 @@ TagManager:
   - name: Wall
     uniqueID: 2926842773
     locked: 0
+  - name: Water
+    uniqueID: 3970699531
+    locked: 0
   - name: Deco
     uniqueID: 2116343133
     locked: 0
